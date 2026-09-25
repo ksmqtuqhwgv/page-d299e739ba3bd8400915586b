@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.8myvlf.cn/sitemap.xml
